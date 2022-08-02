@@ -1,4 +1,3 @@
-# Neural Turkish Processing
+# Neural Turkish Processing (NTP)
 
-in progress ...######
-
+NTP Türkçe metinlerin işlenebilmesi için geliştirilen bir araçtır. 
